@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 - 找不到该页面</title>
+<meta name="renderer" content="webkit">
+<meta name="author" content="http://www.daohangtx.com" />
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+<style>
+*{padding:0px;margin:0px;font-family:"微软雅黑";}
+@font-face{font-family:layui-icon;src:url(/font/fonts/iconfontlayer.eot?v=1.0.7);src:url(/font/fonts/iconfontlayer.eot?v=1.0.7#iefix) format('embedded-opentype'),url(/font/fonts/iconfontlayer.woff?v=1.0.7) format('woff'),url(/font/fonts/iconfontlayer.ttf?v=1.0.7) format('truetype'),url(../font/iconfont.svg?v=1.0.7#iconfont) format('svg')}
+.layui-icon {font-family: layui-icon!important;font-size: 16px;font-style: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.neirong {text-align: center;font-size: 19px;padding:0px 18px}
+.urlhref {text-align: center;display: block;text-decoration: none;border: 1px solid #393D50;width: 218px;height: 42px;color: #393D50;line-height: 42px;font-size: 17px;border-radius: 4px;margin: 20px auto;}
+.urlhref:hover{color:#FFF;background:#393D50;}
+.houjiazai{line-height: 500px; font-size: 500px; color: #393D50;text-align:center;display:block;}
+@media screen and (max-width: 450px) {.houjiazai{line-height: 431px; font-size: 431px;}}
+@media screen and (max-width: 420px) {.houjiazai{line-height: 360px; font-size: 360px;}}
+@media screen and (max-width: 362px) {.houjiazai{line-height: 320px; font-size: 320px;}}
+@media screen and (max-height: 435px) {.houjiazai{line-height: 267px; font-size: 285px;}}
+@media screen and (max-height: 414px) {.houjiazai{line-height: 267px; font-size: 285px;}}
+@media screen and (max-height: 375px){.houjiazai{line-height: 229px;font-size: 240px;}}
+@media screen and (max-height: 360px){.houjiazai{line-height: 209px;font-size: 220px;}}
+@media screen and (max-height: 322px) {.houjiazai{line-height: 179px;font-size: 208px;}}
+</style>
+</head>
+<body>
+	<div style="width:100%;margin-top:30px;">
+    	<i class="layui-icon houjiazai"></i>
+        <p class="neirong">抱歉，您访问的页面不存在。请确认您的输入的地址是否正确！</p>
+        <a href="/" title="回到首页" class="urlhref">回到首页</a>
+    </div>
+</body>
+</html>
